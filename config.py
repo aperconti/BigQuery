@@ -1,1 +1,0 @@
-Key = os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = '/Users/autumperconti/Downloads/BigDataProject-1a844d23b925.json'
